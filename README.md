@@ -1,7 +1,7 @@
 
 # **Amazon Vine Analysis**
 
-#Background:
+# Background:
 
 As a data expert at Big Market, a start-up that helps businesses optimize their marketing efforts.  One of Big Market’s clients, $ellby is releasing a large catalogue of products on a retail website.  They would like to know how the review of their products compare to the reviews of the competitor products. With the project being successful I have been tasked with another project.  This project analyzes the reviews written by members of the paid Amazon Vine program, which is a service that allows manufactures and publishers to receive reviews of their products.  For this service companies like $ellby pay a fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review.
 
